@@ -1,0 +1,15 @@
+# Quartus build directories
+db/
+incremental_db/
+output_files/
+simulation/
+
+# Large simulation files
+*.vcd
+*.vvp
+
+# Backup files
+*.bak
+
+# Quartus workspace
+*.qws
